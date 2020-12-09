@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+    background: linear-gradient(#04e8ff 0%,#0432fd 100%);
+}
+h1{
+text-shadow: 2px 2px #fd8904;
+font-size:20px;
+}
+#bio{
+padding:20px;
+font-size:18;
+text-align: center;
+}
+img{
+border-radius: 50%;
+width:100px;
+}
+
+#about{
+ font-family: 'Andika New Basic', sans-serif;
+
+}
+.menu{
+ list-style: none;
+font-family: cursive;
+float: right;
+top: 10px;
+right: 30px;
+cursor: pointer;
+color: black;
+}
+.links:hover{
+    background-color: aqua;
+    transition: 5s
+}
